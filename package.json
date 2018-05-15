@@ -14,5 +14,14 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "mysql": "^2.15.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanBangerter/eat-da-burger-homew.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RyanBangerter/eat-da-burger-homew/issues"
+  },
+  "homepage": "https://github.com/RyanBangerter/eat-da-burger-homew#readme"
 }
